@@ -1,16 +1,26 @@
-### Hi there 👋
+BlooketUI
+  
 
-<!--
-**Draxyau/Draxyau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What's BlooketUI?
+A script that uses a graphical user interface to make Blooket cheating easier than ever.
 
-Here are some ideas to get you started:
+How do I Use This?
+Browser Console Method
+Copy the code of src.js by pressing CTRL + A
+Now paste that into your browser console (CTRL + SHIFT + I)
+Bookmarklet Method
+Copy the code from bookmarklet.js by pressing CTRL + A
+Create a new Bookmark and paste the code you copied in the URL option. (Bookmarks > Bookmark this tab > More... > bookmarklet.js > Done)
+blooket-utility Method
+Follow the steps given here but paste https://blooketware.github.io/BlooketUI/blooket-utility/injectable.json in the "Add Injectable" Box.
+Now go to the Perfs tab in the Configuration Page and enable BlooketUI.
+Now just login like normally in the blooket-utility page and there you go!
+Credits
+zastix for the underlying UI and some of the hacks
+rxzyx for the blook rush and deceptive dino hacks
+Frued Dued for the awesome blooket-utility
+Echo for some small changes and improvements
+Disclaimer
+This is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am in no way affiliated with Blooket in any way, shape or form. It is not my fault if you get in trouble for using these. Use at your own risk. This was created solely for educational purposes.
